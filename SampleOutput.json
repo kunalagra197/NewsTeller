@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "MLB.com"
+    },
+    "author": "John Denton",
+    "title": "Albert Pujols hits career homers 699 and 700 - MLB.com",
+    "description": "LOS ANGELES -- After Albert Pujols further solidified his baseball greatness by bashing two long balls into the Southern California night -- vaulting him into the exclusive 700 Home Run Club -- he high-fived close friend Adrian Beltré, celebrated with his Car…",
+    "url": "https://www.mlb.com/news/albert-pujols-hits-career-home-run-no-699",
+    "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/mfrc0rdtrvqkxdcvy03z.jpg",
+    "publishedAt": "2022-09-24T08:15:00Z",
+    "content": "LOS ANGELES -- After Albert Pujols further solidified his baseball greatness by bashing two long balls into the Southern California night -- vaulting him into the exclusive 700 Home Run Club -- he hi… [+9500 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Zoe Sottile",
+    "title": "'Baby' island appears in Pacific Ocean after underwater volcano erupts - CNN",
+    "description": "The Central Tonga Islands welcomed the birth of a new baby -- a baby island, that is.",
+    "url": "https://www.cnn.com/2022/09/24/world/baby-island-pacific-ocean-scn-trnd/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220923135008-01-home-reef-eruption.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-24T07:06:00Z",
+    "content": "The Central Tonga Islands welcomed the birth of a new baby a baby island, that is. \r\nThe new baby island emerged in the southwest Pacific Ocean, where underwater volcanoes are plentiful. One of these… [+1341 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KABC-TV"
+    },
+    "author": null,
+    "title": "Louise Fletcher, Oscar winner for 'One Flew Over the Cuckoo's Nest,' dies at 88 - KABC-TV",
+    "description": "Louise Fletcher, who won an Academy Award for her role as Nurse Ratched in \"One Flew Over the Cuckoo's Nest,\" has died at the age of 88.",
+    "url": "https://abc7.com/louise-fletcher-dies-88-oscar-winner/12257972/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/12258689_louise-fletcher-no-bug-img.jpg?w=1600",
+    "publishedAt": "2022-09-24T07:00:17Z",
+    "content": "LOS ANGELES -- Louise Fletcher, a late-blooming star whose riveting performance as the cruel and calculating Nurse Ratched in \"One Flew Over the Cuckoo's Nest\" set a new standard for screen villains … [+5114 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Artemis Moshtaghian, Caitlin Hu, Kathleen Magramo, Sahar Akbarzai and Richard Roth, CNN",
+    "title": "Iran restricts internet as Mahsa Amini protest deaths mount and UN calls for investigation - CNN",
+    "description": "Iranian authorities say they will restrict internet access in the country until calm is restored to the streets, as protests over the death of a young woman in the custody of the morality police rock the Islamic Republic.",
+    "url": "https://www.cnn.com/2022/09/24/middleeast/mahsa-amini-death-iran-internet-un-investigation-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220923205546-mahsa-amini-un-investigation-iran-protest-intl-hnk-super-tease.jpg",
+    "publishedAt": "2022-09-24T06:48:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Jacqueline Alemany, Spencer S. Hsu, Devlin Barrett, Josh Dawsey",
+    "title": "Trump lawyers argue to limit White House aides' testimony to Jan. 6 grand jury - The Washington Post",
+    "description": "The legal dispute could impact the Justice Department’s ongoing investigation.",
+    "url": "https://www.washingtonpost.com/dc-md-va/2022/09/23/jan6-grand-jury-privilege-fight/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SD6PKOB3WAI63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-09-24T04:25:32Z",
+    "content": "Lawyers for former president Donald Trump have entered a high-stakes legal battle seeking to limit the scope of former top White House aides testimony to a federal grand jury that is investigating ef… [+4862 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Guardian staff reporter",
+    "title": "Arizona can enforce near-total abortion ban, judge rules - The Guardian",
+    "description": "Ruling brings back law blocked for nearly 50 years, and means clinics offering the procedure would face criminal charges",
+    "url": "https://amp.theguardian.com/world/2022/sep/23/arizona-abortion-ban-clinics-roe-v-wade",
+    "urlToImage": "https://i.guim.co.uk/img/media/5c54515f6040e2e25b8c079f9f3a0d793ff22671/0_141_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f7272705027c2b4fdd949f962a7b597",
+    "publishedAt": "2022-09-24T02:28:00Z",
+    "content": "Arizona can enforce a near-total ban on abortions that has been blocked for nearly 50 years, a judge ruled Friday, meaning that clinics statewide will have to stop providing the procedures to avoid c… [+3251 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": null,
+    "title": "'The biggest bully I've ever faced': Mother of Sandy Hook victim on confronting Alex Jones - CNN",
+    "description": "Scarlett Lewis, whose six-year-old son Jesse was killed in the Sandy Hook shooting, joins CNN's Anderson Cooper and shares why she decided to take the stand in Alex Jones's civil trial.",
+    "url": "https://www.cnn.com/videos/us/2022/09/24/mother-sandy-hook-shooting-victim-alex-jones-stand-civil-trial-scarlett-lewis-sot-ac360-vpx.cnn",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220923214806-lewis-ac360-vpx-super-tease.jpg",
+    "publishedAt": "2022-09-24T02:20:53Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lavercup.com"
+    },
+    "author": "Laver Cup",
+    "title": "Roger Federer's emotional farewell brings down the house | News - Laver Cup",
+    "description": "Roger Federer brought the curtain down on his illustrious career in an emotion-packed Friday night session at London’s O2 Arena, finishing his final match at 25 minutes past midnight and leaving the court just before 1am amid a sea of love, tears and music in…",
+    "url": "https://lavercup.com/news/2022/09/24/roger-federers-emotional-farewell-brings-down-the-house",
+    "urlToImage": "https://lavercup.com/wp-content/uploads/2022/09/goodbyefed.jpg",
+    "publishedAt": "2022-09-24T02:15:54Z",
+    "content": "The fairytale ending of a victory in his final match fell agonizingly short of coming true, Federer and his great friend and rival Rafael Nadal failing to convert a match point before losing a knife-… [+4138 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": null,
+    "title": "Kevin McCarthy unveils House GOP's big ideas midterm election agenda - CBS News",
+    "description": "House Republican leader Kevin McCarthy is rolling out his party's Trump-like midterm election agenda.",
+    "url": "https://www.cbsnews.com/news/house-republicans-2022-midterm-elections-agenda-kevin-mccarthy/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/10/67c1bbef-f693-4397-8040-448aefb0b235/thumbnail/1200x630g2/bc7f5fc0b89d5e71a743478961e4aab7/gettyimages-1329920957.jpg",
+    "publishedAt": "2022-09-24T02:11:00Z",
+    "content": "Republican leader Kevin McCarthy unveiled the Republican Party's midterm election agenda in Pennsylvania Friday, confronting President Biden and the party in power.\r\nMcCarthy, who is poised to seize … [+9116 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Andrew Freedman, Jacob Knutson",
+    "title": "Hurricane Fiona to wallop Canada as one of its strongest storms on record - Axios",
+    "description": "A Friday morning forecast said Fiona \"will be a severe event for Atlantic Canada and eastern Quebec.\"",
+    "url": "https://www.axios.com/2022/09/23/hurricane-fiona-canada-strongest-storms-record",
+    "urlToImage": "https://images.axios.com/HqnEyKG-QO57IXlZ_4pAPLvfoj0=/0x0:1995x1122/1366x768/2022/09/23/1663948165817.jpg",
+    "publishedAt": "2022-09-24T01:10:21Z",
+    "content": "Hurricane Fiona is forecast to strike eastern Canada as a powerful hurricane force post-tropical storm beginning tonight, with officials in Nova Scotia telling residents they \"should be preparing tod… [+3308 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Patrick Reilly",
+    "title": "Migrant driving front-end loader strikes and kills Florida deputy - New York Post ",
+    "description": "An illegal migrant driving a front loader struck and killed a veteran Florida deputy before fleeing the scene, prompting a massive manhunt that ended in the suspect’s arrest.",
+    "url": "https://nypost.com/2022/09/23/illegal-migrant-driving-front-end-loader-kills-florida-deputy/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/deputy-killed-index.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-09-24T00:33:00Z",
+    "content": "An illegal migrant driving a front-end loader allegedly struck and killed a veteran Florida deputy before fleeing the scene on Thursday night — prompting a frantic manhunt that ended in the suspects … [+5368 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kstp.com"
+    },
+    "author": null,
+    "title": "Enterovirus cases rising in children across the Twin Cities - KSTP",
+    "description": "Hospitals across the Twin Cities are seeing a rise in enterovirus cases in children.",
+    "url": "https://kstp.com/kstp-news/top-news/enterovirus-cases-rising-in-children-across-the-twin-cities/",
+    "urlToImage": "https://kstp.com/wp-content/uploads/2022/09/ENTEROVIRUS-CONCERNS_PKG_00.00.56.38.jpg",
+    "publishedAt": "2022-09-23T23:51:50Z",
+    "content": "Hospitals across the Twin Cities are seeing a rise in enterovirus cases in children.\r\nThis is in line with a recent alert from the Centers for Disease Control and Prevention, which is reporting incre… [+2616 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vulture"
+    },
+    "author": "Jennifer Zhan",
+    "title": "Constance Wu Alleges Sexual Harassment on Fresh Off the Boat - Vulture",
+    "description": "Constance Wu has alleged that a senior producer sexually harassed her during her first year starring on ABC’s Fresh Off the Boat. She recounted the experience in her upcoming memoir, Making a Scene.",
+    "url": "http://www.vulture.com/2022/09/constance-wu-alleges-sexual-harassment-fresh-off-the-boat.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/1d3/2b6/f354019f43e2a9e040565501c05fdbb4fe-constancewu.1x.rsocial.w1200.jpg",
+    "publishedAt": "2022-09-23T23:34:49Z",
+    "content": "Constance Wu has claimed that a Fresh off the Boat producer sexually harassed and intimidated her during the groundbreaking ABC show. Per the New York Times, Wu recounts the experience in her upcomin… [+1628 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Space.com"
+    },
+    "author": "Tariq Malik",
+    "title": "DART asteroid crash: What time will NASA probe hit Dimorphos on Sept. 26? - Space.com",
+    "description": "NASA's DART spacecraft will crash into the asteroid Dimorphos on Sept. 26 at 7:14 p.m. EDT. Here's how the day will unfold.",
+    "url": "https://www.space.com/dart-asteroid-impact-crash-what-time",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/v7P5zuQKX8MdXVHsWLPSBb-1200-80.jpg",
+    "publishedAt": "2022-09-23T23:10:37Z",
+    "content": "A NASA spacecraft will soon make history when it crashes into an asteroid in the world's first planetary defense test. \r\nThe Double Asteroid Redirection Test, or DART asteroid mission, will slam a sp… [+8224 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBC2 News"
+    },
+    "author": "Chief Meteorologist Allyson Rae",
+    "title": "Major hurricane possible next week, Florida impacts look likely - NBC2 News",
+    "description": "Tropical Depression 9 just upgraded to Tropical Storm Ian Friday evening.  It has been a busy few days in the tropics as Fiona, a Category 3 storm heads to Canada, and Tropical Storm Hermine formed just off the West Coast of Africa",
+    "url": "https://nbc-2.com/news/tropics/2022/09/23/tropical-depression-9-tropical-storm-hurricane-ian/",
+    "urlToImage": "https://nbc-2.com/wp-content/uploads/2022/09/tropical-storm-ian-pic-1-9_23.jpg",
+    "publishedAt": "2022-09-23T23:05:00Z",
+    "content": "Tropical Depression 9 just upgraded to Tropical Storm Ian Friday evening.  It has been a busy few days in the tropics as Fiona, a Category 3 storm heads to Canada, and Tropical Storm Hermine formed j… [+2340 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kotaku"
+    },
+    "author": "Zack Zwiezen",
+    "title": "Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak - Kotaku",
+    "description": "London police say the teenager was arrested as part of an investigation by the UK's Cyber Crime Unit",
+    "url": "https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1ed703fc81fa9bb93ae82ee03cbced1a.jpg",
+    "publishedAt": "2022-09-23T22:50:00Z",
+    "content": "Today, London City Police announced they had arrested a 17-year-old from Oxfordshire Thursday evening. While the police have yet to confirm why, its been reported that the teen was arrested in connec… [+1861 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Eric Bradner, Donald Judd, Omar Jimenez",
+    "title": "Republican Tudor Dixon makes light of plot to kidnap Michigan Gov. Gretchen Whitmer at campaign stops - CNN",
+    "description": "Tudor Dixon, the Republican challenging Michigan Gov. Gretchen Whitmer, made light of the 2020 kidnapping plot against Whitmer on Friday, telling a crowd that the Democratic governor \"sure is good at taking business hostage and holding it for ransom.\"",
+    "url": "https://www.cnn.com/2022/09/23/politics/dixon-whitmer-kidnapping-plot-michigan-governor/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220923170917-dixon-whitmer-split.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-23T22:24:00Z",
+    "content": "Tudor Dixon, the Republican challenging Michigan Gov. Gretchen Whitmer, made light of the 2020 kidnapping plot against Whitmer on Friday, telling a crowd that the Democratic governor sure is good at … [+4877 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Mike McDaniel",
+    "title": "Nia Long Releases Statement After Celtics Coach Ime Udoka’s Suspension - Sports Illustrated",
+    "description": "The longtime partner of Udoka released a statement amid the Celtics coach’s suspension for violating franchise rules.",
+    "url": "https://www.si.com/nba/2022/09/23/nia-long-releases-statement-after-celtics-coach-ime-udokas-suspension",
+    "urlToImage": "https://www.si.com/.image/t_share/MTkyNTQ0NDg5ODMzNzY4Njk3/nia-long.jpg",
+    "publishedAt": "2022-09-23T21:57:06Z",
+    "content": "Celtics coach Ime Udoka was suspended by the organization for the entirety of the 2022–23 season on Thursday night for violating franchise rules. Udoka’s suspension came in wake of a report about his… [+1176 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Monisha Ravisetti",
+    "title": "Stunning NASA James Webb Telescope Image Reveals Neptune's Delicate Rings - CNET",
+    "description": "The trailblazing machine delivers once again, offering us the best view of Neptune since 1989.",
+    "url": "https://www.cnet.com/science/space/stunning-nasa-james-webb-telescope-image-reveals-neptunes-delicate-rings/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/381761a457a88db02946cbbc960fabe75b3e2799/hub/2022/09/21/2a3c4981-7ae5-4c93-b483-7a0b3c4faafa/neptune.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-09-23T21:23:00Z",
+    "content": "When we imagine a world embraced by cosmic haloes, we typically envision Saturn. One might even argue Saturn based its entire personality on those dazzling rings -- and rightfully so. They're solid. … [+4895 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Christian Davenport",
+    "title": "NASA moves ahead on Artemis moon launch attempt, while watching storm - The Washington Post",
+    "description": "NASA is hoping to launch its Space Launch System rocket and uncrewed Orion spacecraft to the moon as soon as Tuesday.",
+    "url": "https://www.washingtonpost.com/technology/2022/09/23/nasa-artemis-launch-moon-storm/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5HGECRBK6UI63KIK7TSACXP4R4.jpg&w=1440",
+    "publishedAt": "2022-09-23T21:22:00Z",
+    "content": "NASA is moving ahead with a Tuesday launch attempt of its Space Launch System and Orion spacecraft, agency officials said Friday, as they watch a storm that could force them to roll back the rocket t… [+3823 chars]"
+    }
+    ]
+    }
