@@ -64,7 +64,7 @@ export default class News extends Component {
         return (
             <>
 
-                <h2 className='text-center my-4'>NewsMonkey - Top Headlines</h2>
+                <h2 className='text-center my-4'>NewsTeller - Top Headlines</h2>
                 
                 <InfiniteScroll
                     dataLength={this.state.articles.length}
