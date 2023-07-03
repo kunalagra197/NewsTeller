@@ -19,4 +19,4 @@ export default class NewsItem  extends Component {
     )
   }
 }
-// 43ec68d1239448f9ab606f57448d30b8 
+

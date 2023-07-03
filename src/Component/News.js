@@ -61,19 +61,23 @@ export default class News extends Component {
       };
 
     render() {
+        if(!this.state.array)
+        {
+            <Spinner/>
+        }
         return (
             <>
-
                 <h2 className='text-center my-4'>NewsTeller - Top Headlines</h2>
-                
+                {console.log(this.state.articles.length)}
                 <InfiniteScroll
-                    dataLength={this.state.articles.length}
                     next={this.fetchMoreData}
+                    dataLength={this.state.articles.length}
                     
                     hasMore={this.state.articles.length !== this.state.totalResults}
                     
                     loader={<Spinner/>}
-                >   
+                    >   
+                    {/* {console.log("articles" + this.props.articles)} */}
                 <div className="container">
 
                 <div className="row">
